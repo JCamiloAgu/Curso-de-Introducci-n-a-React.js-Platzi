@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Curso-de-Introducci-n-a-React.js-Platzi/static/css/main.eda79572.chunk.css",
+    "main.js": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/main.b1017e9e.chunk.js",
+    "main.js.map": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/main.b1017e9e.chunk.js.map",
+    "runtime-main.js": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/runtime-main.5d45f83e.js",
+    "runtime-main.js.map": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/runtime-main.5d45f83e.js.map",
+    "static/js/2.5e7c8e4e.chunk.js": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/2.5e7c8e4e.chunk.js",
+    "static/js/2.5e7c8e4e.chunk.js.map": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/2.5e7c8e4e.chunk.js.map",
+    "static/js/3.a0bd7d7f.chunk.js": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/3.a0bd7d7f.chunk.js",
+    "static/js/3.a0bd7d7f.chunk.js.map": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/3.a0bd7d7f.chunk.js.map",
+    "index.html": "/Curso-de-Introducci-n-a-React.js-Platzi/index.html",
+    "static/css/main.eda79572.chunk.css.map": "/Curso-de-Introducci-n-a-React.js-Platzi/static/css/main.eda79572.chunk.css.map",
+    "static/js/2.5e7c8e4e.chunk.js.LICENSE.txt": "/Curso-de-Introducci-n-a-React.js-Platzi/static/js/2.5e7c8e4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d45f83e.js",
+    "static/js/2.5e7c8e4e.chunk.js",
+    "static/css/main.eda79572.chunk.css",
+    "static/js/main.b1017e9e.chunk.js"
+  ]
+}
